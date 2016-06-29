@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "875285438276",
+    "project_id": "default-demo-app-53c9e"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875285438276:android:eb83c19346634c66",
+        "android_client_info": {
+          "package_name": "com.example.akshay_sood.fcmex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HbBx0EZpfGMIbj82xG5_JALdZ-OmOSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
